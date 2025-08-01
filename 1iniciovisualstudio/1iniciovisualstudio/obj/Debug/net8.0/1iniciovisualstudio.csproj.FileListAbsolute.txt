@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\bin\Debug\net8.0\1iniciovisualstudio.exe
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\bin\Debug\net8.0\1iniciovisualstudio.deps.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\bin\Debug\net8.0\1iniciovisualstudio.runtimeconfig.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\bin\Debug\net8.0\1iniciovisualstudio.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\bin\Debug\net8.0\1iniciovisualstudio.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.AssemblyInfo.cs
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.sourcelink.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\refint\1iniciovisualstudio.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\1iniciovisualstudio.genruntimeconfig.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\1iniciovisualstudio\1iniciovisualstudio\obj\Debug\net8.0\ref\1iniciovisualstudio.dll
