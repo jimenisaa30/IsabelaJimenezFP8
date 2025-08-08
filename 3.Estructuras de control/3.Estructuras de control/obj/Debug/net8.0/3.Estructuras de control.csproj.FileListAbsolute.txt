@@ -1,0 +1,15 @@
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\bin\Debug\net8.0\3.Estructuras de control.exe
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\bin\Debug\net8.0\3.Estructuras de control.deps.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\bin\Debug\net8.0\3.Estructuras de control.runtimeconfig.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\bin\Debug\net8.0\3.Estructuras de control.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\bin\Debug\net8.0\3.Estructuras de control.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.AssemblyInfo.cs
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.sourcelink.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\refint\3.Estructuras de control.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\3.Estructuras de control.genruntimeconfig.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\3.Estructuras de control\3.Estructuras de control\obj\Debug\net8.0\ref\3.Estructuras de control.dll

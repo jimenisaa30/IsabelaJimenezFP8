@@ -91,6 +91,22 @@
             bool exp4 = !exp2; //true
             bool exp5 = !exp3 || exp4; // true
             Console.WriteLine($"exp1= {exp1}, exp2= {exp2}, exp3 = {exp3}, exp4= {exp4}, exp5= {exp5}");
+
+            //Operadores de comparación
+            bool exp6 = 5 > 5;  //true, false
+            Console.WriteLine (exp6);
+
+            bool exp7 = 6 == 6;  //Operador de igualdad
+            Console.WriteLine(exp7);
+
+            bool exp8 = 4 != 5; //Operador de diferencia
+            Console.WriteLine( exp8 );
+
+            bool exp9 = 5 > 4 && 6 != 6; //Operadores de comparación y diferencia
+            Console.WriteLine(exp9);
+
+            bool exp10 = 10 > 9 || !exp9;
+            Console.WriteLine(exp10);
         }
     }
 }
