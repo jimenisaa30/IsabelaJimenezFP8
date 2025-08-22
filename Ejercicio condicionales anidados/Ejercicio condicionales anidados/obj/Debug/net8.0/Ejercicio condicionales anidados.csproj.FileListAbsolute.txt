@@ -1,0 +1,15 @@
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\bin\Debug\net8.0\Ejercicio condicionales anidados.exe
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\bin\Debug\net8.0\Ejercicio condicionales anidados.deps.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\bin\Debug\net8.0\Ejercicio condicionales anidados.runtimeconfig.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\bin\Debug\net8.0\Ejercicio condicionales anidados.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\bin\Debug\net8.0\Ejercicio condicionales anidados.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.AssemblyInfo.cs
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.sourcelink.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\refint\Ejercicio condicionales anidados.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\Ejercicio condicionales anidados.genruntimeconfig.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\Ejercicio condicionales anidados\Ejercicio condicionales anidados\obj\Debug\net8.0\ref\Ejercicio condicionales anidados.dll
