@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\bin\Debug\net8.0\7. Operador Ternario.exe
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\bin\Debug\net8.0\7. Operador Ternario.deps.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\bin\Debug\net8.0\7. Operador Ternario.runtimeconfig.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\bin\Debug\net8.0\7. Operador Ternario.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\bin\Debug\net8.0\7. Operador Ternario.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.AssemblyInfo.cs
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.sourcelink.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\refint\7. Operador Ternario.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\7. Operador Ternario.genruntimeconfig.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\7. Operador Ternario\7. Operador Ternario\obj\Debug\net8.0\ref\7. Operador Ternario.dll
