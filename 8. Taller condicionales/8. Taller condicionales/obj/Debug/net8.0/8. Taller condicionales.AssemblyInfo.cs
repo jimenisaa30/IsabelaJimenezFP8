@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8. Taller condicionales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1537abfd5824e2be42906c0a14bba63244a7106")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b185a16e1a20449333be060c269458e73b098d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("8. Taller condicionales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8. Taller condicionales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
