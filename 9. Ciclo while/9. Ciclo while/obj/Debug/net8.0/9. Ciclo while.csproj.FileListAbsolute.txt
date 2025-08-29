@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\bin\Debug\net8.0\9. Ciclo while.exe
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\bin\Debug\net8.0\9. Ciclo while.deps.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\bin\Debug\net8.0\9. Ciclo while.runtimeconfig.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\bin\Debug\net8.0\9. Ciclo while.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\bin\Debug\net8.0\9. Ciclo while.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.AssemblyInfo.cs
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.sourcelink.json
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\refint\9. Ciclo while.dll
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.pdb
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\9. Ciclo while.genruntimeconfig.cache
+C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\9. Ciclo while\9. Ciclo while\obj\Debug\net8.0\ref\9. Ciclo while.dll
