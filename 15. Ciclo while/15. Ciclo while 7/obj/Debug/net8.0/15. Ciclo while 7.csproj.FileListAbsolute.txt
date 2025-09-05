@@ -1,0 +1,15 @@
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.AssemblyInfo.cs
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.sourcelink.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\bin\Debug\net8.0\15. Ciclo while 7.exe
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\bin\Debug\net8.0\15. Ciclo while 7.deps.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\bin\Debug\net8.0\15. Ciclo while 7.runtimeconfig.json
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\bin\Debug\net8.0\15. Ciclo while 7.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\bin\Debug\net8.0\15. Ciclo while 7.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\refint\15. Ciclo while 7.dll
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.pdb
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\15. Ciclo while 7.genruntimeconfig.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\15. Ciclo while 7\15. Ciclo while 7\obj\Debug\net8.0\ref\15. Ciclo while 7.dll

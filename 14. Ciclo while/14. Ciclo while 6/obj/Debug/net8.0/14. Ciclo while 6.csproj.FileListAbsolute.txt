@@ -1,0 +1,5 @@
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\14. Ciclo while 6\14. Ciclo while 6\obj\Debug\net8.0\14. Ciclo while 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\14. Ciclo while 6\14. Ciclo while 6\obj\Debug\net8.0\14. Ciclo while 6.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\14. Ciclo while 6\14. Ciclo while 6\obj\Debug\net8.0\14. Ciclo while 6.AssemblyInfo.cs
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\14. Ciclo while 6\14. Ciclo while 6\obj\Debug\net8.0\14. Ciclo while 6.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\IsabelaJimenez\IsabelaJimenezFP8\14. Ciclo while 6\14. Ciclo while 6\obj\Debug\net8.0\14. Ciclo while 6.sourcelink.json
