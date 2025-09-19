@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial 2. Ciclos", "Parcial 2. Ciclos\Parcial 2. Ciclos.csproj", "{1FD93341-81BF-4099-88AD-F1F6FBEAE8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD93341-81BF-4099-88AD-F1F6FBEAE8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD93341-81BF-4099-88AD-F1F6FBEAE8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD93341-81BF-4099-88AD-F1F6FBEAE8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD93341-81BF-4099-88AD-F1F6FBEAE8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8E1F67-518B-42C1-836B-07FF29DDFDF3}
+	EndGlobalSection
+EndGlobal

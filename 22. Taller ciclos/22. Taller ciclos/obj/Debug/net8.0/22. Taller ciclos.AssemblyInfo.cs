@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("22. Taller ciclos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120b65840db3f93e011d43311aee65168c4908b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d2548b6994a7c947e0c245d6a30e0cce4ccf4cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("22. Taller ciclos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("22. Taller ciclos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

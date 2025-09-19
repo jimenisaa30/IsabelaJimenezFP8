@@ -13,3 +13,18 @@ C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\22. Taller ciclos\2
 C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.pdb
 C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.genruntimeconfig.cache
 C:\Users\B09S113est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\ref\22. Taller ciclos.dll
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\bin\Debug\net8.0\22. Taller ciclos.exe
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\bin\Debug\net8.0\22. Taller ciclos.deps.json
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\bin\Debug\net8.0\22. Taller ciclos.runtimeconfig.json
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\bin\Debug\net8.0\22. Taller ciclos.dll
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\bin\Debug\net8.0\22. Taller ciclos.pdb
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.AssemblyInfo.cs
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.sourcelink.json
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.dll
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\refint\22. Taller ciclos.dll
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.pdb
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\22. Taller ciclos.genruntimeconfig.cache
+C:\Users\Isa\Desktop\Isabela Jimenez\IsabelaJimenezFP8\22. Taller ciclos\22. Taller ciclos\obj\Debug\net8.0\ref\22. Taller ciclos.dll
