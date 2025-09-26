@@ -65,6 +65,7 @@
                 {
                     Console.WriteLine($"Caracter posición {i},{j}: {numDiez[i, j]}");
                 }
+                
                 Console.WriteLine();
             }
 
