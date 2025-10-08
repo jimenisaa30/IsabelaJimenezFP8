@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("31. Programación modular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ecc1fe658b2a960377c6b37c70553e013d149fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be7f28467a2e7f98b75cd14e94fce9200bd713bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("31. Programación modular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("31. Programación modular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

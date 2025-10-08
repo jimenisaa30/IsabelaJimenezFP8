@@ -79,10 +79,24 @@
                 vector resaltando el número en un color diferente. Si no se encuentra el número, se debe
                 devolver y mostrar -1.*/
 
-            int[] vector;
-            vector =new int[20];
+            int[] vector =new int[20];
+            Random rnd = new Random();
 
+            int buscarNum = 0;
 
+            for (int i = 0; i < vector.Length; i++)
+            {
+                vector[i] = rnd.Next(0,51);
+            }
+
+            for (int i = 0;i < vector.Length; i++)
+            {
+                Console.Write(vector[i]+"|");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("Ingrese un número para encontrarlo en el vector");
+            buscarNum = int.Parse(Console.ReadLine());
         }
     }
 }
