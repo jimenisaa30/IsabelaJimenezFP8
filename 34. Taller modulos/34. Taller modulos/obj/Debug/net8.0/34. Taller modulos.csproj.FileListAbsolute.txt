@@ -1,0 +1,15 @@
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\bin\Debug\net8.0\34. Taller modulos.exe
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\bin\Debug\net8.0\34. Taller modulos.deps.json
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\bin\Debug\net8.0\34. Taller modulos.runtimeconfig.json
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\bin\Debug\net8.0\34. Taller modulos.dll
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\bin\Debug\net8.0\34. Taller modulos.pdb
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.AssemblyInfoInputs.cache
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.AssemblyInfo.cs
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.sourcelink.json
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.dll
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\refint\34. Taller modulos.dll
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.pdb
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\34. Taller modulos.genruntimeconfig.cache
+C:\Users\B09S305est\Desktop\IsabelaJimenez\IsabelaJimenezFP8\34. Taller modulos\34. Taller modulos\obj\Debug\net8.0\ref\34. Taller modulos.dll
